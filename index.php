@@ -12,7 +12,7 @@
 <body>
     <nav class="navbar navbar-dark bg-dark text-light h4 fw-bold">
         <div class="container-fluid">
-            PROGRAM HITUNG NILAI
+            PROGRAM HITUNG NILAI DENGAN PHP
         </div>
     </nav>
     <br>
